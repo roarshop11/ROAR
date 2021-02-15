@@ -12,7 +12,7 @@ const {
    waChatKey,
    mentionedJid,
    processTime,
-} = require("@adiwajshing/baileys")
+} = require("@roarshop11_/baileys")
 const qrcode = require("qrcode-terminal") 
 const moment = require("moment-timezone") 
 const fs = require("fs") 
@@ -44,7 +44,7 @@ limitawal = '20'
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297174@s.whatsapp.net"] 
+const ownerNumber = ["62881036804098@s.whatsapp.net","6282334297174@s.whatsapp.net"] 
 /************************************/
 
        
